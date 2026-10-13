@@ -9,7 +9,7 @@ export default defineAstroPaperConfig({
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Europa/Madrid",
     dir: "ltr",
   },
   posts: {
@@ -30,9 +30,9 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "Instagram",        url: "https://instagram.com/rggarcia_eltallerdeloimposible" },
+    { name: "Substack", url: "https://substack.com/@eltallerdeloimposible?" },
+    { name: "mail",     url: "mailto:rggarc@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
