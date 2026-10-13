@@ -9,7 +9,7 @@ export default defineAstroPaperConfig({
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Europa/Madrid",
+    timezone: "Europe/Madrid",
     dir: "ltr",
   },
   posts: {
